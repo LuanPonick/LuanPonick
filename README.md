@@ -1,7 +1,6 @@
-# Olaaaaa !!!
-## <div align="center">🎉🎉Meu nome é *Luan*🎉🎉</div>
+# <div align="center">🎉🎉Olá meu nome é *Luan*🎉🎉</div>
 
-<div align="center">amo estudar programação em geral indo deis de progrmação fron-end até programação de jogos, eu acho que encinar os outros é a melhor forma de aprender e eu realmete me divirto muito encinando então não fique tão surpreso caso encontre sites super extensos explicando assuntos não tão simples ou até mesmo arquivos.md bem extenços rsrs.</div>
+<div align="center">Amo estudar programação em geral indo deis de progrmação fron-end até programação de jogos, eu acho que encinar os outros é a melhor forma de aprender e eu realmete me divirto muito encinando então não fique tão surpreso caso encontre sites super extensos explicando assuntos não tão simples ou até mesmo arquivos.md bem extenços rsrs.Se quiser um dia desses colar na minha live vou estar super feliz em conversar.<br> 😎</div>
 
  ___
  
@@ -38,19 +37,14 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
   
 
 ## Meus estudos de programação web HTML,CSS, JS entre outras
-   * [CursoEmVideo/my-html-css](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-html-css)
+   >### [CursoEmVideo/my-html-css](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-html-css)
+   >Estudos sobre apenas programção web com HTML e CSS.
    
-    Estudos sobre apenas programção web com HTML e CSS.
-   * [CursoEmVideo/my-js](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js)
+   >### [CursoEmVideo/my-js](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js)
+   >Estudos de javaScript front-end.
    
-    Estudos de javaScript front-end.
-   * [WebProjects/](https://github.com/LuanPonick/WebProject)
- 
-    Estudos web a ver com frameWork PO-UI, estudos especificos de html,css,js e alguns projetos pessoas Web
-    
-    
-
-
+   >### [WebProjects/](https://github.com/LuanPonick/WebProject)
+   >Estudos web a ver com frameWork PO-UI, estudos especificos de html,css,js e alguns projetos pessoas Web
 <!--
 **LuanPonick/LuanPonick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
