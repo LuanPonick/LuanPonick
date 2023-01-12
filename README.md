@@ -56,7 +56,7 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  > * Animaçoes;
  > * Menus;
  > * Adição de musicas;
- > * Criação de mecanicas de forma independente de stackoverflow e amigos 🙃.
+ > * Criação de mecanicas de forma sem a utilização de stackoverflow e amigos 🙃.
 <!--
 **LuanPonick/LuanPonick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
