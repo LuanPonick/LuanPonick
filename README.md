@@ -29,10 +29,10 @@
    > ### [Site sobre display flex](https://luanponick.github.io/WebProject/N%C3%A3o%20prontos/Displays/displays/flex/site-completo%20new/pages/index.html)
    >Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de varios exemplos praticos de como funciona determinada propriedade no display flex. Esse site não esta 100% completo em conteudo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projeto que eu mais fico feliz em ter feito ele mesmo que ainda não tenha terminado.
     
-   > ### <s>[Pong]()</s>
-   >(devido a alguns problemas esse projeto Unity 2d ainda nao está aqui...)
+   > ### [Pong](https://github.com/LuanPonick/Pong)
+   >Esse é um dos meu projetos que eu mais cheguei longe de terminar indo deisde menu ate jogabilidade.Ele ainda não esta 100% pronto mas está bem prximo disso.
     
-## O que você achara aqui?!
+# O que você achara aqui?!
 você pode ver meus repositórios de estudos e alguns tutoriais html css js e mais algumas outras linguagens web e alguns projetos de programação de jogos 2D na unity:
   
 
@@ -45,6 +45,18 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
    
    >### [WebProjects/](https://github.com/LuanPonick/WebProject)
    >Estudos web a ver com frameWork PO-UI, estudos especificos de html,css,js e alguns projetos pessoas Web
+ 
+ ## Meus projetos java
+   >### [LetsCode](https://github.com/LuanPonick/LetsCode)
+   >Aqui esta meus estudos do curso sobre desenvolvimento em java que eu estou fazendo na Totvs.
+ 
+ ##Meus projetos unity2D
+ >### Pong
+ >Um jogo que ainda não esta 100% pronto mas esta quase.Esse jogo eu fiz para testar o que eu sabia fazer na unity como :
+ > * Animaçoes;
+ > * Menus;
+ > * Adição de musicas;
+ > * Criação de mecanicas de forma independente de stackoverflow e amigos 🙃.
 <!--
 **LuanPonick/LuanPonick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
