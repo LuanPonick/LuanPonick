@@ -31,7 +31,9 @@
     
    > ### [Pong](https://github.com/LuanPonick/Pong)
    >Esse é um dos meu projetos que eu mais cheguei longe de terminar indo deisde menu ate jogabilidade.Ele ainda não esta 100% pronto mas está bem prximo disso.
-    
+ 
+   ----
+ 
 # O que você achara aqui?!
 você pode ver meus repositórios de estudos e alguns tutoriais html css js e mais algumas outras linguagens web e alguns projetos de programação de jogos 2D na unity:
   
