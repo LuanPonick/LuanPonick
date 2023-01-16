@@ -68,7 +68,8 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  
  ---
  ## Minis projetos interessantes
- >###[Contador](https://luanponick.github.io/CursoEmVideo/my-js/aula14EX/ex1/model.html)
+ >### [Contador](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js/aula14EX/ex1)
+ > [./CursoEmVideo/tree/main/my-js/aula14EX/ex1](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js/aula14EX/ex1)
  > Um projeto feito usando html css e js.Esse projeto deixa você colocar um valor de onde deseja comçar até onde deseja chegar colando o um valor de "passos" por exemplo 
  >~~~
  >Começar no 1 terminar no 3 com passos de 1 : 
@@ -77,7 +78,7 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  >Começar no -3 terminar no 3 com passos de 2 : 
  >-3,-1,1,3
  >~~~
- >E a parte mais interessante é que é possivel passar valores negativos em qualquer parte.E caso nao seje possivel fazer o calculo ele te dara um aviso o do porque é impossivel fazer esse calculo. (link do site!!!)[]
+ >E a parte mais interessante é que é possivel passar valores negativos em qualquer parte.E caso nao seje possivel fazer o calculo ele te dara um aviso o do porque é impossivel fazer esse calculo. (link do site!!!)[https://luanponick.github.io/CursoEmVideo/my-js/aula14EX/ex1/model.html]
  
  
 <!--
