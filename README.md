@@ -67,7 +67,7 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  > * Criação de mecanicas de forma sem a utilização de stackoverflow e amigos 🙃.
  
  ---
- >## Minis projetos interessantes
+ ## Minis projetos interessantes
  >###[Contador](https://luanponick.github.io/CursoEmVideo/my-js/aula14EX/ex1/model.html)
  > Um projeto feito usando html css e js.Esse projeto deixa você colocar um valor de onde deseja comçar até onde deseja chegar colando o um valor de "passos" por exemplo 
  >~~~
