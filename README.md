@@ -67,8 +67,7 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  > Um jogo que ainda não está 100% pronto mas está quase.Esse jogo eu fiz para testar o que eu sabia fazer na unity como :
  > * Animaçoes;
  > * Menus;
- > * Adição de musicas;
- > * Criação de mecanicas de forma sem a utilização de stackoverflow e amigos 🙃.
+ > * Adição de musicas.
  
  ---
  ## Minis projetos interessantes
