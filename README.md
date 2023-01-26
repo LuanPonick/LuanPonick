@@ -50,8 +50,10 @@ você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
    >Estudos de javaScript front-end.
    
    >### [WebProjects/](https://github.com/LuanPonick/WebProject)
-   >Estudos web a ver com frameWork PO-UI, estudos específicos de html,css,js e alguns projetos pessoais Web
- 
+   >Estudos web a ver com frameWork PO-UI, estudos específicos de html, css, js e alguns projetos pessoais Web
+   
+   >### [Angular_PO-UI](https://github.com/LuanPonick/Angular_PO-UI)
+   >Estudos e projetos relacionados sobre Angular e PO-UI
  ## Meus projetos java
   > ### [LetsCode](https://github.com/LuanPonick/LetsCode)
   > Aqui esta meus estudos do curso sobre desenvolvimento em java que eu estou fazendo na Totvs.
