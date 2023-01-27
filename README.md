@@ -40,7 +40,7 @@
    ----
  
 # O que você achara aqui?!
-você pode ver meus repositórios de estudos e alguns tutoriais html css js e mais algumas outras linguagens web e alguns projetos de programação de jogos 2D na unity:
+Você pode ver meus repositórios de estudos e alguns tutoriais html css js e mais algumas outras linguagens web e alguns projetos de programação de jogos 2D na unity:
   
 
 ## Meus estudos de programação Web (HTML,CSS, JS entre outras)
