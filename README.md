@@ -70,7 +70,8 @@ Você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  > * Adição de musicas.
  
  ---
- ## Minis projetos interessantes
+ ## Minis projetos interessantes 
+ ><sub>Caso queria ver na pratica o topico apenas click no nome dele 🦄</sub>
  >### [Contador](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js/aula14EX/ex1)
  > [./CursoEmVideo/tree/main/my-js/aula14EX/ex1](https://github.com/LuanPonick/CursoEmVideo/tree/main/my-js/aula14EX/ex1)
  >
@@ -83,7 +84,12 @@ Você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  >-3, -1, 1, 3
  >~~~
  >E a parte mais interessante é que é possivel passar valores negativos em qualquer parte.E caso nao seje possivel fazer o calculo ele te dara um aviso o do porque é impossivel fazer esse calculo. [link do site!!!](https://luanponick.github.io/CursoEmVideo/my-js/aula14EX/ex1/model.html)
- 
+ >
+ >---
+ >
+ >### [Angular estudos](https://ponick-angular.vercel.app/)
+ >[https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular](https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular)
+ >Esse é meu projeto sobre estudos do angular. O site em si nao é tao legal/bonito mas a documentação que eu estou fazendo para ele esta ficando muito legal sendo um otimo lugar para relembrar conseitos que foram esquecidos de uma forma rapida e prática.<br> Caso queria ler um pouco só [Clickar em mim !!](https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular) que sera levado para o repositorio com os arquivos para ler caso deseje. 
  
 <!--
 https://youtu.be/TsaLQAetPLU?t=923
