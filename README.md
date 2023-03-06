@@ -20,23 +20,33 @@
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />          
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />        
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luan-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Luan-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
 </div>
 
-## Meus 3 projetos favoritos 
-   > ### [A3_Eclipse](https://github.com/LuanPonick/A3_Eclipse)  
+## Meus projetos favoritos
+   > ### [A3_Eclipse](https://github.com/LuanPonick/A3_Eclipse)
+   > <img alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+   >
    >Esse é meu projeto mais recente finalizado, ele é um projeto que eu tive que fazer na faculdade no módulo de programação e solução computacional.Esse projeto eu fiz usando Java e Mysql na ide eclipse.Esse projeto tem uma ideia de simular uma tela de login e registro e uma funcionalidade de pesquisa no banco de dados para que o usuário possa ver ongs que estão registradas no banco de dados.Esse projeto eu fiz toda a parte de código, conectividade com o banco de dados e a criação do banco também.
  
     
    > ### [Site sobre display flex](https://luanponick.github.io/WebProject/N%C3%A3o%20prontos/Displays/displays/flex/site-completo%20new/pages/index.html)
+   ><img alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   >
    >Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito ele mesmo que ainda não tenha terminado.
 
     
-   > ### [Pong](https://github.com/LuanPonick/Pong)
+   > ### [Pong](https://github.com/LuanPonick/Pong) 
+   ><img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+   >
    >Esse é um dos meus projetos (de jogos) que eu mais cheguei longe de terminar indo desde menu a jogabilidade.Ele ainda não está 100% pronto mas está bem próximo disso.
  
+  > ### [IllaoiH](https://github.com/LuanPonick/IllaoiH) 
+  ><img alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  >
+  > Um site super simples usando meus conhecimentos de Angular/po-ui. Nesse site eu utilizei uma API da Riot (Uma empresa de jogos como league of legends por exemplo) e nessa API eu puxei a história completa do personagem que gira em torno do site. Esse site não está completo mas toda a parte comentada acima está funcionando.
    ----
  
 # O que você achara aqui?!
