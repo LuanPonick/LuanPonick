@@ -63,8 +63,12 @@ Você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
    >### [WebProjects/](https://github.com/LuanPonick/WebProject)
    >Estudos web a ver com frameWork PO-UI, estudos específicos de html, css, js e alguns projetos pessoais Web
    
-   >### [Angular_PO-UI/](https://github.com/LuanPonick/Angular_PO-UI)
-   >Estudos e projetos relacionados sobre Angular e PO-UI
+ ## Angular po-ui
+ >### [Angular_PO-UI/](https://github.com/LuanPonick/Angular_PO-UI)
+ >Estudos e projetos relacionados sobre Angular e ou PO-UI
+ >### [Calendariozinho](https://github.com/LuanPonick/Calendariozinho)
+ >Um projeto que tem a ideia de ser como o nome sugere um caledario. Nesse projeto eu estou usando angular e po-ui. Até o momento não esta completo mas 
+ 
  ## Meus projetos java
   > ### [LetsCode](https://github.com/LuanPonick/LetsCode)
   > Aqui esta meus estudos do curso sobre desenvolvimento em java que eu estou fazendo na Totvs.
@@ -78,6 +82,10 @@ Você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  > * Animaçoes;
  > * Menus;
  > * Adição de musicas.
+ 
+ ## Banco De Dados
+ > ### [Estudo-Banco-De-Dados](https://github.com/LuanPonick/Estudo-Banco-De-Dados)
+ > Esse foi um trabalho que foi feito enquanto eu estava no projeto Start-Tech da totvs. Esse trabalha ele se baseava em criar um data base que o professor pediu e logo apos a criação do banco fazer consultas que ele pedio.<br>Esse trabalho foi feito em 3 pessoas contando comigo. 
  
  ---
  ## Minis projetos interessantes 
