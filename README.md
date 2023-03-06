@@ -109,6 +109,19 @@ Você pode ver meus repositórios de estudos e alguns tutoriais html css js e ma
  >[https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular](https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular)
  >Esse é meu projeto sobre estudos do angular. O site em si nao é tao legal/bonito mas a documentação que eu estou fazendo para ele esta ficando muito legal sendo um otimo lugar para relembrar conseitos que foram esquecidos de uma forma rapida e prática.<br> Caso queria ler um pouco só [Clickar em mim !!](https://github.com/LuanPonick/Angular_PO-UI/tree/main/Angular) que sera levado para o repositorio com os arquivos para ler caso deseje. 
  
+ # Designs:
+ Eu tenho o costume de quando eu sinto que o projeto vai ser muito grande fazer desigens no figma e aqui vai ter alguns desse projetos que eu fiz
+  >### [Projeto super auto pets](https://www.figma.com/community/file/1214567012418854421)
+  > Esse foi um projeto em que eu fiz em conjunto com um amigo, ele se baseava em fazer um site sobre um jogo que na época nós gostávamos muito de jogar mas esse projeto não passou de um planejamento.
+ 
+  >### [future clothes](https://www.figma.com/community/file/1214570901829823007)
+  > Um site que eu projetei sobre uma empresa fictícia chamada future clothes que venderia roupas futuristas.
+
+
+ 
+ 
+ 
+ 
 <!--
 https://youtu.be/TsaLQAetPLU?t=923
 -->
