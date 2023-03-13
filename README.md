@@ -33,7 +33,7 @@
    >Esse é meu projeto mais recente finalizado, ele é um projeto que eu tive que fazer na faculdade no módulo de programação e solução computacional.Esse projeto eu fiz usando Java e Mysql na ide eclipse.Esse projeto tem uma ideia de simular uma tela de login e registro e uma funcionalidade de pesquisa no banco de dados para que o usuário possa ver ongs que estão registradas no banco de dados.Esse projeto eu fiz toda a parte de código, conectividade com o banco de dados e a criação do banco também.
  
     
-   > ### [Site Display Flex](https://github.io/LuanPonickWebProject/Conceitos/Displays/displays/flex/site-completo new/pages/index.html)
+   > ### [Site Display Flex](https://github.io/LuanPonick/WebProject/Conceitos/Displays/displays/flex/site-completo new/pages/index.html)
    > <img alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    >
    > Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito ele mesmo que ainda não tenha terminado<br>[repositorio](https://github.com/LuanPonick/WebProject/Conceitos/Displays/displays/flex/site-completo new/pages/index.html)
