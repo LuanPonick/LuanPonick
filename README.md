@@ -33,18 +33,20 @@
    > ### [Site Sobre Display Flex](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
    > <img alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    >
-   > Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito ele mesmo que ainda não tenha terminado<br>[repositorio](https://github.com/LuanPonick/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
+   > Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito <br>[repositorio com os codigos](https://github.com/LuanPonick/WebProject/tree/main/Conceitos/Displays/displays/flex/site-completo%20new) <br> [site](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
 
     
-   > ### [Pong](https://github.com/LuanPonick/Pong) 
-   ><img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-   >
-   >Esse é um dos meus projetos (de jogos) que eu mais cheguei longe de terminar indo desde menu a jogabilidade.Ele ainda não está 100% pronto mas está bem próximo disso.
+  > ### [alugameCar](https://github.com/LuanPonick/AlugaMeCar/tree/main)
+  > <img align="center" alt="Luan-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  >
+  > Esse foi um projeto de conclusao de projeto(StartTech) que eu tive o pravez de fazer em conjuto da minha equipe.
+  > A ideia principal desse projeto foi a criação de APIs e a criação dos bancos de dados e de como as tebalas se relacionam, toda essa parte de relacionamento entre tabelas pode ser visto no [figma](https://www.figma.com/board/72cX9NfTjPMvwpmrsZnWfF/Untitled?node-id=0-1&t=oO7SdHwsDO2EviqJ-1).
+  > Nesse projeto todo mundo da equipe colaborou em todas as partes, deis da criação do escopo, codificação, e ate o designe.
  
   > ### [IllaoiH](https://github.com/LuanPonick/IllaoiH) 
   ><img alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   >
-  > Um site super simples usando meus conhecimentos de Angular/po-ui. Nesse site eu utilizei uma API da Riot (Uma empresa de jogos como league of legends por exemplo) e nessa API eu puxei a história completa do personagem que gira em torno do site. Esse site não está completo mas toda a parte comentada acima está funcionando.
+  > Um site super simples usando meus conhecimentos de Angular/po-ui. Nesse site eu utilizei uma API da Riot (Uma empresa de jogos como league of legends) e nessa API eu puxei a história completa do personagem que gira em torno do site. Esse site não está completo mas toda a parte comentada acima está funcionando.
    ----
  
 # O que você achara aqui?!
