@@ -1,6 +1,6 @@
 # <div align="center">🎉🎉Olá meu nome é *Luan*🎉🎉</div>
 
-<div align="center">Amo estudar programação em geral indo desde programação front-end até programação de jogos, eu acho que ensinar os outros é a melhor forma de aprender e eu realmente me divirto muito ensinando então não fique tão surpreso caso encontre sites super extensos explicando assuntos não tão simples ou até mesmo arquivos.md bem extenços rsrs.Se quiser um dia desses colar na minha live vou estar super feliz em conversar.
+<div align="center">Amo estudar programação em geral indo desde programação front-end até programação de jogos, eu acho que ensinar os outros é a melhor forma de aprender e eu realmente me divirto muito ensinando então não fique tão surpreso caso encontre sites super extensos explicando assuntos não tão simples ou até mesmo arquivos.md bem extenços. Se quiser um dia desses colar na minha live vou estar super feliz em conversar.
 <br> 😎</div>
 
  ___
@@ -10,27 +10,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPonick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   <div align="center"> 
- 	<a href="https://www.twitch.tv/PonickSZ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luanponick.sz.2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanponick07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-ponick-97a1a8234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/Ponick07" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />          
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />        
+  <img align="center" alt="Luan-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Luan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />     
+  <img align="center" alt="Luan-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Luan-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />          
+  <img align="center" alt="Luan-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />        
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Luan-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
 ## Meus projetos favoritos
    > ### [A3_Eclipse](https://github.com/LuanPonick/A3_Eclipse)
-   > <img alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+   > <img alt="Luan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > <img align="center" alt="Luan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
    >
-   >Esse é meu projeto mais recente finalizado, ele é um projeto que eu tive que fazer na faculdade no módulo de programação e solução computacional.Esse projeto eu fiz usando Java e Mysql na ide eclipse.Esse projeto tem uma ideia de simular uma tela de login e registro e uma funcionalidade de pesquisa no banco de dados para que o usuário possa ver ongs que estão registradas no banco de dados.Esse projeto eu fiz toda a parte de código, conectividade com o banco de dados e a criação do banco também.
+   >Esse um projeto que tive que fazer para a faculdade no módulo "programação e solução computacional". Eu fiz usando Java e Mysql na ide eclipse. Esse projeto tem uma ideia de simular uma tela de login e registro e uma funcionalidade de pesquisa no banco de dados para que o usuário possa ver ongs que estão registradas no banco de dados. Nesse projeto eu fiz toda a parte de código, conectividade com o banco de dados e a criação do banco.
  
     
    > ### [Site Sobre Display Flex](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
