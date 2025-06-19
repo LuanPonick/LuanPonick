@@ -24,15 +24,15 @@
 </div>
 
 ## Meus projetos favoritos
+   > ### [Site Sobre Display Flex](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
+   > <img alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   >
+   > Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito <br>[repositorio com os codigos](https://github.com/LuanPonick/WebProject/tree/main/Conceitos/Displays/displays/flex/site-completo%20new) <br> [CLICK AQUI PARA ACESSAR O SITE NA WEB](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
+
    > ### [A3_Eclipse](https://github.com/LuanPonick/A3_Eclipse)
    > <img alt="Luan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > <img align="center" alt="Luan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
    >
    >Esse um projeto que tive que fazer para a faculdade no módulo "programação e solução computacional". Eu fiz usando Java e Mysql na ide eclipse. Esse projeto tem uma ideia de simular uma tela de login e registro e uma funcionalidade de pesquisa no banco de dados para que o usuário possa ver ongs que estão registradas no banco de dados. Nesse projeto eu fiz toda a parte de código, conectividade com o banco de dados e a criação do banco.
- 
-   > ### [Site Sobre Display Flex](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
-   > <img alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   >
-   > Esse é um dos meus projetos de site que possuem relação aos meus estudos de display flex. Esse site tem responsividade para mobile além de vários exemplos práticos de como funciona determinada propriedade no display flex. Esse site não está 100% completo em conteúdo mas em questão de funcionalidade ele está super bem. Esse é um dos meus projetos que eu mais fico feliz em ter feito <br>[repositorio com os codigos](https://github.com/LuanPonick/WebProject/tree/main/Conceitos/Displays/displays/flex/site-completo%20new) <br> [site](https://luanponick.github.io/WebProject/Conceitos/Displays/displays/flex/site-completo%20new/pages/index.html)
   
   > ### [alugameCar](https://github.com/LuanPonick/AlugaMeCar/tree/main)
   > <img align="center" alt="Luan-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
